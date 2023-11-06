@@ -7,7 +7,7 @@ st.set_page_config(
 
 st.write("# UJIAN AKHIR SEMESTER PYTHON")
 st.markdown("---")
-st.subheader("Muhammad Yoga Saputra [210103138]")
+st.subheader("Muchammad Yoga Saputra [210103138]")
 st.subheader("Naufal Choirul Ananda [210103139]")
 st.subheader("Pipin Anjarwati [210103140]")
 st.subheader("Sofyan Nur Rohman [210103171]")
